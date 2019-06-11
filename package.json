@@ -1,5 +1,5 @@
 {
-  "name": "layout-manager",
+  "name": "configurable-layout",
   "version": "1.0.0",
   "description": "A Javascript library to render User Interface from JSON input",
   "main": "index.js",
