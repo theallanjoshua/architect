@@ -10,7 +10,7 @@ module.exports = {
   output: {
     path: outputDir,
     filename: 'index.js',
-    library: 'architect',
+    library: 'the_architect',
     libraryTarget: 'umd'
   },
   module: {
